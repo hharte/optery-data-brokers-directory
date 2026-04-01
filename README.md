@@ -52,7 +52,7 @@ You can watch this repository for updates or use the searchable directory versio
 
 ## **License**
 
-This dataset is provided free of charge for educational and research use. Please attribute Optery and link to [www.optery.com](https://www.optery.com/) when using or redistributing this data.
+This directory is licensed under CC BY-NC-SA 4.0. You may share and adapt this material for noncommercial purposes with attribution. For commercial use, contact support@optery.com.
 
 ## **About Optery**
 
