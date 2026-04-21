@@ -52,7 +52,7 @@ You can watch this repository for updates or use the searchable directory versio
 
 ## **License**
 
-This dataset is provided free of charge for educational and research use. Please attribute Optery and link to [www.optery.com](https://www.optery.com/) when using or redistributing this data.
+This directory is licensed under CC BY-NC-SA 4.0. You may share and adapt this material for noncommercial purposes with attribution. For commercial use, contact support@optery.com.
 
 ## **About Optery**
 
@@ -65,8 +65,9 @@ Optery helps individuals and organizations reduce the risks of physical and cybe
 * [Optery for Family](https://www.optery.com/family)
 * [Optery for Business](https://www.optery.com/business)  
 * [Optery Global Privacy Control (GPC) Extension](https://chromewebstore.google.com/detail/optery-global-privacy-con/nkiidnpgmddigajgebjhcdiklebfoomm?pli=1)
+
 # Data Broker Directory
-Generated on: 2026-04-21 09:13:56
+Generated on: 2026-04-21 09:30:14
 Total Data Brokers: 956
 
 ## Table of Contents
